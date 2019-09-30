@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/30 20:43:38.000.092,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/08/30 20:45:15.000.230,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\CadaTecidos.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\formPrincipal.dfm</Transaction>
+    <Transaction>2019/08/30 20:45:15.000.230,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\CadaTecidos.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\formPrincipal.pas</Transaction>
+    <Transaction>2019/08/30 20:45:26.000.343,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Cad_Tecidos.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\CadaTecidos.dfm</Transaction>
+    <Transaction>2019/08/30 20:45:26.000.343,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Cad_Tecidos.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\CadaTecidos.pas</Transaction>
+    <Transaction>2019/09/30 13:45:51.000.258,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/09/30 13:50:47.000.220,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\CadTecidos.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2019/09/30 13:50:47.000.219,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\CadTecidos.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/09/30 13:52:01.000.493,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\TelaInicial.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\CadTecidos.pas</Transaction>
+    <Transaction>2019/09/30 13:52:01.000.493,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\TelaInicial.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\CadTecidos.dfm</Transaction>
+    <Transaction>2019/09/30 14:03:04.000.770,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\TelaInicial.pas=</Transaction>
+    <Transaction>2019/09/30 14:13:53.000.061,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Tela_inicial.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2019/09/30 14:13:53.000.061,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Tela_inicial.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/09/30 15:36:23.000.888,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\exemplo1.dproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\SistemaTCC.dproj</Transaction>
+    <Transaction>2019/09/30 15:45:06.000.641,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Tela_inicial.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Telainicio.dfm</Transaction>
+    <Transaction>2019/09/30 15:45:06.000.641,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Tela_inicial.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Telainicio.pas</Transaction>
+  </Transactions>
+</BorlandProject>
